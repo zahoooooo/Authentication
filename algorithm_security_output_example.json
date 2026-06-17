@@ -1,0 +1,11 @@
+[
+  {"alg_id":11,"name":"TinyJAMBU-128","family":"TinyJAMBU","key_bits":128,"nonce_bits":96,"tag_bits":64},
+  {"alg_id":12,"name":"TinyJAMBU-192","family":"TinyJAMBU","key_bits":192,"nonce_bits":96,"tag_bits":64},
+  {"alg_id":13,"name":"TinyJAMBU-256","family":"TinyJAMBU","key_bits":256,"nonce_bits":96,"tag_bits":64},
+  {"alg_id":21,"name":"SCHWAEMM128-128","family":"SCHWAEMM","key_bits":128,"nonce_bits":128,"tag_bits":128},
+  {"alg_id":22,"name":"SCHWAEMM192-192","family":"SCHWAEMM","key_bits":192,"nonce_bits":192,"tag_bits":192},
+  {"alg_id":23,"name":"SCHWAEMM256-256","family":"SCHWAEMM","key_bits":256,"nonce_bits":256,"tag_bits":256},
+  {"alg_id":31,"name":"LEA-CCM-128","family":"LEA-CCM","key_bits":128,"nonce_bits":96,"tag_bits":128},
+  {"alg_id":32,"name":"LEA-CCM-192","family":"LEA-CCM","key_bits":192,"nonce_bits":96,"tag_bits":128},
+  {"alg_id":33,"name":"LEA-CCM-256","family":"LEA-CCM","key_bits":256,"nonce_bits":96,"tag_bits":128}
+]
